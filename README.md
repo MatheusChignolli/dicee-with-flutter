@@ -1,4 +1,4 @@
-# i_am_rich_project
+# dicee_project
 
 ## Flutter project images
 
